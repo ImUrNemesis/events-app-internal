@@ -20,7 +20,7 @@ const mockEvents = {
     events: [
         { title: 'Outlaw Music Festival Tour 2021', id: 1, description: 'Willie Nelson is bringing his Outlaw Music Festival to our stage along with friends Sturgill Simpson, Nathaniel Rateliff & The Night Sweats and more on Sept 22', location: 'Atlanta, GA', date: '21 Sep 2021'
     , imgsrc: "https://www.exploregeorgia.org/sites/default/files/styles/listing_slideshow/public/listing_images/event/43591/5fa9e0173eed73118a8b573d52f48947_Outlaw_festival.jpg?itok=82GsvPQU" },
-        { title: 'Glass Animals – Dreamland Tour', id: 2, description: 'This is an all ages show. Doors at 7pm. Show at 8pm. Support Act: Binki The floor is general admission standing room only. The balcony is reserved seating.',location: 'Austin, TX', 
+        { title: 'Glass Animals – Dreamland Tour New', id: 2, description: 'This is an all ages show. Doors at 7pm. Show at 8pm. Support Act: Binki The floor is general admission standing room only. The balcony is reserved seating.',location: 'Austin, TX', 
         date: '22 Sep 2021', imgsrc: "https://travelcobb.org/wp-content/uploads/2021/08/4dbdbb2b-7ad9-4909-90c8-76a15c5a97f4-23.jpg" }
     ]
 };
